@@ -6,7 +6,7 @@ An AI-assisted, editable, slide-by-slide presentation generator built using Gemi
 
 🚀 Features
 
-- 🧠 Generate full presentations from a single prompt
+- 🧠 Generate full presentations from a single prompt.
 - 🔁 Slide-by-slide generation with context-aware summaries
 - ✍️ Per-slide editing and regeneration using prompts
 - ✂️ Select text and rewrite with AI via prompt
